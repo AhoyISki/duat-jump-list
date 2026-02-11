@@ -1,3 +1,5 @@
+**This crate has been transferred to the duat monorepo, as such, this repository has been archived**
+
 # duat-jump-list ![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue) [![duat-jump-list on crates.io](https://img.shields.io/crates/v/duat-jump-list)](https://crates.io/crates/duat-jump-list) [![duat-jump-list on docs.rs](https://docs.rs/duat-jump-list/badge.svg)](https://docs.rs/duat-jump-list) [![Source Code Repository](https://img.shields.io/badge/Code-On%20GitHub-blue?logo=GitHub)](https://github.com/AhoyISki/duat-jump-list)
 
 This plugin is supposed to be a jump list for [`Selections`][__link0]
